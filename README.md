@@ -4,7 +4,7 @@ Four independent, tested, portfolio-grade projects. Each one goes deep on a sing
 data library and follows the same professional layout: `src/` package, `tests/`, `README`,
 `requirements.txt`, `pyproject.toml` and reproducible outputs.
 
-[![tests](https://github.com/<your-username>/python-libraries/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/python-libraries/actions)
+[![tests](https://github.com/<mostamirkazimi>/python-libraries/actions/workflows/ci.yml/badge.svg)](https://github.com/<mostamirkazimi>/python-libraries/actions)
 
 | Project | Library | What it shows |
 |---------|---------|---------------|
@@ -21,7 +21,7 @@ data library and follows the same professional layout: `src/` package, `tests/`,
 ## Running a project
 
 ```bash
-git clone https://github.com/<your-username>/python-libraries.git
+git clone https://github.com/<mostamirkazimi>/python-libraries.git
 cd python-libraries/<project-folder>
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

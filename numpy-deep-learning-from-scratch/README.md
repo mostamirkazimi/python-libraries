@@ -39,7 +39,7 @@ outputs/         generated plots
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/python-libraries.git
+git clone https://github.com/<mostamirkazimi>/python-libraries.git
 cd python-libraries/numpy-deep-learning-from-scratch
 pip install -r requirements.txt
 pip install -e .
